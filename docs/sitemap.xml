@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://oscmartin56.github.io/hugo-ejemplo/personal/programacion/index.html</loc>
+    <lastmod>2024-10-04T13:57:48+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://oscmartin56.github.io/hugo-ejemplo/personal/markdown/index.html</loc>
+    <lastmod>2024-10-04T14:01:01+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://oscmartin56.github.io/hugo-ejemplo/personal/index.html</loc>
+    <lastmod>2024-10-04T14:01:01+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://oscmartin56.github.io/hugo-ejemplo/index.html</loc>
+    <lastmod>2024-10-04T14:01:01+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://oscmartin56.github.io/hugo-ejemplo/personal/titulo1/index.html</loc>
+    <lastmod>2024-10-04T13:57:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://oscmartin56.github.io/hugo-ejemplo/personal/contacto/index.html</loc>
+    <lastmod>2024-10-04T13:57:20+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://oscmartin56.github.io/hugo-ejemplo/descargas/index.html</loc>
+    <lastmod>2024-10-04T13:57:20+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://oscmartin56.github.io/hugo-ejemplo/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>https://oscmartin56.github.io/hugo-ejemplo/tags/index.html</loc>
+  </url>
+</urlset>
